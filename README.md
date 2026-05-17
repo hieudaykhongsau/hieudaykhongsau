@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=007BFF&center=true&vCenter=true&width=550&lines=Hi,+I'm+Nguyen+Minh+Hieu;Aspiring+Software+Engineer;Fullstack+Web+Development;Algorithms+%26+C%2B%2B+Enthusiast" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=007BFF&center=true&vCenter=true&width=550&lines=Hi,+I'm+Nguyen+Minh+Hieu;Aspiring+Software+Engineer;Fullstack+Web+Developer" alt="Typing SVG" /></a>
 </p>
 
 ---
@@ -24,7 +24,7 @@
         <ul>
           <li><b>Edu Platform:</b> Building social features, posts, and friend lists.</li>
           <li><b>E-commerce DB:</b> Designing robust schemas (e.g., "clothes").</li>
-          <li><b>Hackathons:</b> Actively participating and solving algorithmic challenges.</li>
+          <li><b>Hackathons:</b> Actively participating.</li>
         </ul>
       </p>
     </td>
