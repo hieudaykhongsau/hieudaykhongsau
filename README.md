@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=007BFF&center=true&vCenter=true&width=550&lines=Hi,+I'm+Nguyen+Minh+Hieu;Aspiring+Software+Engineer;Fullstack+Web+Developer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=007BFF&center=true&vCenter=true&width=600&lines=Hi,+I'm+Nguyen+Minh+Hieu;Aspiring+Full-Stack+Developer;C%2B%2B+%7C+Java+%7C+JavaScript+Enthusiast;Let's+build+something+amazing!" alt="Typing SVG" /></a>
 </p>
 
 ---
@@ -62,13 +62,13 @@
 
 ### 🎮 Player Stats (HP & EXP)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hieudaykhongsau&show_icons=true&bg_color=0d1117&title_color=007BFF&text_color=c9d1d9&icon_color=007BFF&hide_border=true&custom_title=Player%20Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hieudaykhongsau&bg_color=0d1117&title_color=007BFF&text_color=c9d1d9&hide_border=true&layout=compact&custom_title=Skill%20EXP%20Bars" width="49%" />
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hieudaykhongsau&show_icons=true&bg_color=0d1117&title_color=007BFF&text_color=c9d1d9&icon_color=007BFF&hide_border=true&custom_title=📊+Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hieudaykhongsau&bg_color=0d1117&title_color=007BFF&text_color=c9d1d9&hide_border=true&layout=compact&custom_title=💾+Languages" />
+</div>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=hieudaykhongsau&background=0d1117&dates=c9d1d9&ring=007BFF&fire=007BFF&currStreakNum=007BFF&sideNums=c9d1d9&currStreakLabel=007BFF&sideLabels=c9d1d9&hide_border=true" width="100%" />
+  <img src="https://streak-stats.demolab.com/?user=hieudaykhongsau&background=0d1117&dates=c9d1d9&ring=007BFF&fire=007BFF&currStreakNum=007BFF&sideNums=c9d1d9&currStreakLabel=007BFF&sideLabels=c9d1d9&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
 ---
@@ -76,7 +76,8 @@
 ### 🤝 Let's Connect!
 
 <p align="center">
-  <a href="mailto:hieudaykhongso@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:hieudaykhongso@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/hieudaykhongsau"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 </div>
