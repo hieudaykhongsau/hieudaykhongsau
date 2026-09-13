@@ -23,16 +23,9 @@
 <table align="center" width="100%" style="border-collapse: collapse; border: none;">
   <tr>
     <td width="58%" style="border: none; vertical-align: top;">
-      <p>🎓 <b>Current Status:</b> Continuous learner evolving into a Senior Software Engineer.</p>
+      <p>🎓 <b>Current Study:</b> FPT University.</p>
       <p>🎯 <b>Focus:</b> Full-stack Web Development (Spring Boot, ASP.NET Core, React) & Cloud/DevOps fundamentals.</p>
-      <p>💡 <b>Philosophy:</b> <i>"Every line of code is a step forward."</i></p>
-      <p>🛠️ <b>Active Quests:</b> 
-        <ul>
-          <li><b>Edu Platform:</b> Social features, interactive feeds & real-time notifications.</li>
-          <li><b>E-commerce Engine:</b> High-performance DB schema with Redis caching layer.</li>
-          <li><b>Microservices Exploration:</b> Containerizing fullstack apps with Docker.</li>
-        </ul>
-      </p>
+      <p>✉️ <b>Contact: </b>hieudaykhongso@gmail.com</p>
     </td>
     <td width="42%" style="border: none; vertical-align: middle; text-align: center;">
       <p align="center"><b>🏆 Achievements Unlocked</b></p>
@@ -113,14 +106,6 @@
 ---
 
 <div align="center">
-
-### 🤝 Let's Connect!
-
-<p align="center">
-  <a href="mailto:hieudaykhongso@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
 
 <!-- Dynamic Wave Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:007BFF&height=120&section=footer" width="100%" />
