@@ -1,99 +1,116 @@
 <div align="center">
 
-  <!-- Dynamic Wave Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007BFF,100:8A2BE2&height=200&section=header&text=✨%20Hieu's%20Code%20Space!%20✨&fontsize=32&fontColor=ffffff&animation=twinkling" width="100%" />
+  <!-- Minimalist Wave Header (Ocean Blue Gradient) -->
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:03045E,50:0077B6,100:00B4D8&height=160&section=header&text=Nguyen%20Minh%20Hieu&fontSize=36&fontColor=ffffff&fontAlignY=45&desc=Full-Stack%20Software%20Engineer&descSize=16&descAlignY=68" width="100%" />
 
+  <!-- Typing Subtitle -->
   <p align="center">
-    <img src="https://media1.tenor.com/m/xHj7e8b2gZ0AAAAd/doraemon-hello.gif" width="100px" alt="Doraemon Waving" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=0096C7&center=true&vCenter=true&width=550&lines=Building+Scalable+Web+Applications;Spring+Boot+%7C+ASP.NET+Core+%7C+React;Cloud+%26+DevOps+Enthusiast" alt="Typing SVG" />
   </p>
 
+  <!-- Minimalist Social / Contact Badges (FontAwesome Icons) -->
   <p align="center">
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D2FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Nguyen+Minh+Hieu;Aspiring+Software+Engineer;Fullstack+Web+Developer;Building+Scalable+Web+Apps" alt="Typing SVG" />
+    <a href="mailto:hieudaykhongso@gmail.com">
+      <img src="https://img.shields.io/badge/Email-0077B6?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://github.com/hieudaykhongsau">
+      <img src="https://img.shields.io/badge/GitHub-023E8A?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
     </a>
   </p>
-  <br />
 
 </div>
 
----
+<br />
 
-### 💫 Player Profile
-
-<table align="center" width="100%" style="border-collapse: collapse; border: none;">
+<!-- ABOUT SECTION (Clean 2-Column Layout with FontAwesome SVG Icons) -->
+<table width="100%" style="border-collapse: collapse; border: none;">
   <tr>
-    <td width="58%" style="border: none; vertical-align: top;">
-      <p>🎓 <b>Current Study:</b> FPT University.</p>
-      <p>🎯 <b>Focus:</b> Full-stack Web Development (Spring Boot, ASP.NET Core, React) & Cloud/DevOps fundamentals.</p>
-      <p>✉️ <b>Contact: </b>hieudaykhongso@gmail.com</p>
+    <td width="55%" valign="top" style="border: none; padding-right: 20px;">
+      <h3>
+        <img src="https://api.iconify.design/fa6-solid/user-astronaut.svg?color=%230096C7" width="18" height="18" align="absmiddle" /> &nbsp;About Me
+      </h3>
+      <p>
+        <img src="https://api.iconify.design/fa6-solid/graduation-cap.svg?color=%2300B4D8" width="15" height="15" align="absmiddle" /> &nbsp;<b>Education:</b> FPT University
+      </p>
+      <p>
+        <img src="https://api.iconify.design/fa6-solid/code.svg?color=%2300B4D8" width="15" height="15" align="absmiddle" /> &nbsp;<b>Focus:</b> Full-stack Web Development (Spring Boot, ASP.NET Core, React) & Cloud/DevOps fundamentals.
+      </p>
+      <p>
+        <img src="https://api.iconify.design/fa6-solid/envelope.svg?color=%2300B4D8" width="15" height="15" align="absmiddle" /> &nbsp;<b>Contact:</b> <a href="mailto:hieudaykhongso@gmail.com">hieudaykhongso@gmail.com</a>
+      </p>
     </td>
-    <td width="42%" style="border: none; vertical-align: middle; text-align: center;">
-      <p align="center"><b>🏆 Achievements Unlocked</b></p>
-      <img src="https://github-profile-trophy.vercel.app/?username=hieudaykhongsau&theme=gitdimmed&no-bg=true&column=2&row=2&margin-w=4" width="100%" />
+    <td width="45%" valign="middle" align="center" style="border: none;">
+      <img src="https://github-profile-trophy.vercel.app/?username=hieudaykhongsau&theme=onestar&no-bg=true&no-frame=true&column=3&row=2&margin-w=6" width="100%" />
     </td>
   </tr>
 </table>
 
----
+<br />
 
-### 💻 Inventory (Tech Stack)
+<!-- TECH STACK (Unified Ocean Blue Palette & Flat-Square Style) -->
+<h3>
+  <img src="https://api.iconify.design/fa6-solid/layer-group.svg?color=%230096C7" width="18" height="18" align="absmiddle" /> &nbsp;Tech Stack
+</h3>
+
+<table width="100%" style="border-collapse: collapse;">
+  <tr>
+    <td width="25%"><b>Backend & Core</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Java-023E8A?style=flat-square&logo=openjdk&logoColor=white" />
+      <img src="https://img.shields.io/badge/Spring_Boot-0077B6?style=flat-square&logo=spring&logoColor=white" />
+      <img src="https://img.shields.io/badge/C%23-0096C7?style=flat-square&logo=csharp&logoColor=white" />
+      <img src="https://img.shields.io/badge/.NET_Core-00B4D8?style=flat-square&logo=dotnet&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/JavaScript-023E8A?style=flat-square&logo=javascript&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-0077B6?style=flat-square&logo=react&logoColor=white" />
+      <img src="https://img.shields.io/badge/HTML5-0096C7?style=flat-square&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-00B4D8?style=flat-square&logo=css3&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Database & DevOps</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Docker-023E8A?style=flat-square&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Redis-0077B6?style=flat-square&logo=redis&logoColor=white" />
+      <img src="https://img.shields.io/badge/MySQL-0096C7?style=flat-square&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/SQL_Server-00B4D8?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+      <img src="https://img.shields.io/badge/Maven-48CAE4?style=flat-square&logo=apachemaven&logoColor=03045E" />
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<!-- GITHUB ANALYTICS (Synced with Ocean Blue & Transparent Backgrounds) -->
+<h3>
+  <img src="https://api.iconify.design/fa6-solid/chart-line.svg?color=%230096C7" width="18" height="18" align="absmiddle" /> &nbsp;GitHub Analytics
+</h3>
 
 <div align="center">
-
-  <!-- Backend & Languages -->
-  <p><b>Backend & Core Languages</b></p>
   <p>
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-    <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+    <img src="https://github-readme-stats.vercel.app/api?username=hieudaykhongsau&show_icons=true&bg_color=00000000&title_color=0096C7&text_color=8B949E&icon_color=00B4D8&border_color=0077B6&border_radius=6&custom_title=Overview" width="49%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hieudaykhongsau&layout=compact&bg_color=00000000&title_color=0096C7&text_color=8B949E&border_color=0077B6&border_radius=6&custom_title=Languages" width="49%" />
   </p>
 
-  <!-- Frontend -->
-  <p><b>Frontend Ecosystem</b></p>
   <p>
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-    <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <img src="https://streak-stats.demolab.com/?user=hieudaykhongsau&background=00000000&border=0077B6&ring=00B4D8&fire=0096C7&currStreakLabel=0096C7&sideLabels=8B949E&currStreakNum=00B4D8&sideNums=8B949E&dates=8B949E" width="100%" />
   </p>
 
-  <!-- Database & DevOps -->
-  <p><b>Database & DevOps Infrastructure</b></p>
   <p>
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-    <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-    <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-    <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=hieudaykhongsau&bg_color=00000000&color=8B949E&line=0096C7&point=00B4D8&area=true&area_color=0077B6&hide_border=false&border_color=0077B6" width="100%" />
   </p>
-
 </div>
 
----
+<br />
 
-### 🎮 Player Stats & Activity Graph
-
-<div align="center">
-
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=hieudaykhongsau&show_icons=true&theme=tokyonight&border_radius=8&hide_border=true&custom_title=Player%20Stats" width="49%" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hieudaykhongsau&theme=tokyonight&border_radius=8&hide_border=true&layout=compact&custom_title=Skill%20EXP%20Bars" width="49%" />
-  </p>
-
-  <p align="center">
-    <img src="https://streak-stats.demolab.com/?user=hieudaykhongsau&theme=tokyonight&hide_border=true" width="100%" />
-  </p>
-
-  <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=hieudaykhongsau&theme=tokyonight&hide_border=true&area=true" width="100%" />
-  </p>
-
-</div>
-
----
-
-### 🐍 Contribution Snake Game
+<!-- CONTRIBUTION SNAKE -->
+<h3>
+  <img src="https://api.iconify.design/fa6-solid/code-commit.svg?color=%230096C7" width="18" height="18" align="absmiddle" /> &nbsp;Contribution Activity
+</h3>
 
 <div align="center">
   <picture>
@@ -103,11 +120,9 @@
   </picture>
 </div>
 
----
+<br />
 
+<!-- Minimalist Footer -->
 <div align="center">
-
-<!-- Dynamic Wave Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:007BFF&height=120&section=footer" width="100%" />
-
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00B4D8,50:0077B6,100:03045E&height=80&section=footer" width="100%" />
 </div>
