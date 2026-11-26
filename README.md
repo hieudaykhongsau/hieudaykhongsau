@@ -5,7 +5,7 @@
 
   <!-- Typing Subtitle -->
   <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=0096C7&center=true&vCenter=true&width=550&lines=Building+Scalable+Web+Applications;Spring+Boot+%7C+ASP.NET+Core+%7C+React;Cloud+%26+DevOps+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=0096C7&center=true&vCenter=true&width=550&lines=Building+Scalable+Web+Applications;DevOps+Enthusiast" alt="Typing SVG" />
   </p>
 
   <!-- Minimalist Social / Contact Badges (FontAwesome Icons) -->
@@ -33,7 +33,7 @@
         <img src="https://api.iconify.design/fa6-solid/graduation-cap.svg?color=%2300B4D8" width="15" height="15" align="absmiddle" /> &nbsp;<b>Education:</b> FPT University
       </p>
       <p>
-        <img src="https://api.iconify.design/fa6-solid/code.svg?color=%2300B4D8" width="15" height="15" align="absmiddle" /> &nbsp;<b>Focus:</b> Full-stack Web Development (Spring Boot, ASP.NET Core, React) & Cloud/DevOps fundamentals.
+        <img src="https://api.iconify.design/fa6-solid/code.svg?color=%2300B4D8" width="15" height="15" align="absmiddle" /> &nbsp;<b>Focus:</b> Full-stack Web Development & DevOps fundamentals.
       </p>
       <p>
         <img src="https://api.iconify.design/fa6-solid/envelope.svg?color=%2300B4D8" width="15" height="15" align="absmiddle" /> &nbsp;<b>Contact:</b> <a href="mailto:hieudaykhongso@gmail.com">hieudaykhongso@gmail.com</a>
@@ -59,7 +59,8 @@
       <img src="https://img.shields.io/badge/Java-023E8A?style=flat-square&logo=openjdk&logoColor=white" />
       <img src="https://img.shields.io/badge/Spring_Boot-0077B6?style=flat-square&logo=spring&logoColor=white" />
       <img src="https://img.shields.io/badge/C%23-0096C7?style=flat-square&logo=csharp&logoColor=white" />
-      <img src="https://img.shields.io/badge/.NET_Core-00B4D8?style=flat-square&logo=dotnet&logoColor=white" />
+      <img src="https://img.shields.io/badge/NestJS-023E8A?style=flat-square&logo=nestjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/TypeScript-0096C7?style=flat-square&logo=typescript&logoColor=white" />
     </td>
   </tr>
   <tr>
